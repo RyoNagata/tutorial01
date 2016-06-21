@@ -5,4 +5,8 @@ tutorial用です
 そうなんですね
 そうっすよ
 mjsk
+<<<<<<< HEAD
 usodaro
+=======
+そうですか
+>>>>>>> myfirstbranch
