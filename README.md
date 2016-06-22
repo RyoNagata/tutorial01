@@ -10,3 +10,4 @@ usodaro
 =======
 そうですか
 >>>>>>> myfirstbranch
+俺は新しくなった
